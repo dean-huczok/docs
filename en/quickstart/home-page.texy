@@ -145,7 +145,7 @@ By default, the layout template is located in `app/presenters/templates/@layout.
 ...
 \--
 
-`{include content}` inserts a block named `content` into the main template. You can define it in the templates of each view. In this case we will edit the file `app/presenters/templates/Hompage/default.latte` like this:
+`{include content}` inserts a block named `content` into the main template. You can define it in the templates of each view. In this case we will edit the file `app/presenters/templates/Homepage/default.latte` like this:
 
 /--html
 {block content}
